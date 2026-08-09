@@ -5,7 +5,7 @@
        the capsule-render "text=" URL param — raw unencoded spaces/parentheses/IPA characters
        in that URL were breaking the image request (that's why it showed as a broken "header" link).
        fontColor changed to FFFFFF (white) so the text is actually visible. -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=463296&height=200&section=header&text=Hi%2C%20I'm%20%7CMaju%E2%9F%A9&fontSize=60&fontColor=FFFFFF&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
+  <img width="50%" src="https://capsule-render.vercel.app/api?type=venom&color=463296&height=200&section=header&text=Hi%2C%20I'm%20%7CMaju%E2%9F%A9&fontSize=60&fontColor=FFFFFF&fontFamily=Fira%20Code&animation=fadeIn" alt="header"/>
   <br/>
   <sub>ꉂ(˵˃ ᗜ ˂˵)</sub>
   <br/>
@@ -37,7 +37,6 @@ Final-semester Systems Engineering student (UCSM, Arequipa) focused on quantum c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- EDIT: add/remove icons, comma-separated, in "i=" -->
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,cpp,rust,mysql,git,github,vscode,figma&theme=dark" alt="skills"/>
   </a>
 </p>
@@ -62,10 +61,6 @@ Final-semester Systems Engineering student (UCSM, Arequipa) focused on quantum c
 
 ### ✦ GitHub overview
 
-<!-- FIX: the <p align="center"> tags were opened/closed inconsistently before (a stray
-     unclosed <p align="center"> right before the streak img), which is why the layout
-     looked off-center in your screenshot. Each widget now gets its own clean, closed
-     <p align="center">...</p> block. -->
 <p align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaJuliaPareja&theme=dark&bg_color=0e0a1c&title_color=b669f0&text_color=E6E6E6&border_color=1A3333&icon_color=FFFFFF" alt="stats"/>
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaJuliaPareja&theme=dark&bg_color=0e0a1c&title_color=b669f0&text_color=E6E6E6&border_color=1A3333&chart_color=7FFFD4" alt="top languages"/>
@@ -98,12 +93,6 @@ Final-semester Systems Engineering student (UCSM, Arequipa) focused on quantum c
 ---
 
 ### ✦ Events & Talks
-
-<!-- FIX: this is now a real Markdown list (each line starts with "- "). Before, all the lines
-     ran together into a single paragraph because Markdown merges consecutive lines with no
-     blank line and no leading "-" into one block — that's why it rendered as one long
-     run-on sentence instead of separate entries. -->
-
 - ✶⋆.˚🎤 **Leiden↔Chile Research Seminar (LCRS)**, Universidad de Chile — lightning talk · Santiago, Chile · Jul 2026
 - ✶⋆.˚🏫 **Santiago School of Physics 2026** — attendee · Santiago, Chile · Jul 2026
 - ✶⋆.˚🧪 **WISER Summer School 2026** — completed challenge track (Schrödinger's Cat, PennyLane) · remote · Jul 2026
@@ -143,9 +132,7 @@ Final-semester Systems Engineering student (UCSM, Arequipa) focused on quantum c
 <p align="center">──────────────୨ৎ──────────────</p>
 
 <p align="center">
-  <!-- FIX: same problem as the top header — kaomoji baked into "text=" broke the URL.
-       Moved it to plain text below, and set fontColor to white so it's visible. -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=463296&height=200&section=header&text=Thanks%20for%20stopping%20by&fontSize=60&fontColor=FFFFFF&fontFamily=Fira%20Code&animation=fadeIn" alt="footer"/>
+  <img width="50%" src="https://capsule-render.vercel.app/api?type=venom&color=463296&height=200&section=header&text=Thanks%20for%20stopping%20by&fontSize=60&fontColor=FFFFFF&fontFamily=Fira%20Code&animation=fadeIn" alt="footer"/>
   <br/>
   <sub>(˶ˆᗜˆ˵) If something here pulled you in, don't be a stranger uwu</sub>
 </p>
