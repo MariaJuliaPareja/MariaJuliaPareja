@@ -21,11 +21,6 @@
 ### ✦ About
 
 Final-semester Systems Engineering student (UCSM, Arequipa) focused on quantum computing, cybersecurity, and systems that are actually built well: one foot in theory, one in production.
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM29rdzZ4aWRjNGVsNHp1bTljenBidG95dzU3c3B5bTJweTluaTZnOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3gTmgzy7wYJfyaGRHQ/giphy.gif" width="40%" alt="about gif"/>
-</p>
-
 - ✦ Currently building: **QuFraud — Quantum Support Vector Machine for credit card fraud detection (PennyLane)**
 - ✦ Thesis: **GPS/MPF vs. QUBO formulations for the TSP using QAOA**
 - ✦ Interested in: **quantum computing · cybersecurity · full-stack dev**
