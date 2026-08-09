@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZtcGZieno3cmd6Y2dnZzd5dHI5bDhscGFxY211ZnpuMTl3YXlxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" width="40%" alt="header gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZtcGZieno3cmd6Y2dnZzd5dHI5bDhscGFxY211ZnpuMTl3YXlxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uBTWyINWTrWz6/giphy.gif" width="20%" alt="header gif"/>
 </p>
 
 <p align="center">──────────────୨ৎ──────────────</p>
@@ -151,7 +151,7 @@ Final-semester Systems Engineering student (UCSM, Arequipa) focused on quantum c
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2theGpvZzZqbTl5ZGs3emdyeTBzODFkc2tyN3BxeDB5MXF4cXhweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" width="70%" alt="thank you"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2theGpvZzZqbTl5ZGs3emdyeTBzODFkc2tyN3BxeDB5MXF4cXhweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vMSXa7KFGx49aeeXhe/giphy.gif" width="20%" alt="thank you"/>
 </p>
 
 <p align="center">──────────────୨ৎ──────────────</p>
